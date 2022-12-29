@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@freshad22 
+freshad22
+/
+goit-markup-hw-08
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+goit-markup-hw-08/.gitignore
+@freshad22
+freshad22 svg
+Latest commit 256129b on Nov 26
+ History
+ 1 contributor
+107 lines (78 sloc)  1.6 KB
+
 # Logs
 logs
 *.log
@@ -102,3 +132,21 @@ dist
 
 # TernJS port file
 .tern-port
+
+# exclude svg files
+/svg
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+goit-markup-hw-08/.gitignore at main · freshad22/goit-markup-hw-08
